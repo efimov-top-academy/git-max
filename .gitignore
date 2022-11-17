@@ -1,5 +1,5 @@
-.gitignore
 *.log
 *.rar
 *.zip
 *[~_]
+_*.*
